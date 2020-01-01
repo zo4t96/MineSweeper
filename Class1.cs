@@ -9,6 +9,7 @@ namespace MineSweeper
 {
     public class Mine
     {
+        //測試git運作加的註解
         public Random rnd = new Random();
         public int x = 8;
         public int y = 8;
